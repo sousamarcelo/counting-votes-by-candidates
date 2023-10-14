@@ -7,8 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import model.entities.Canditate;
-
 public class Program {
 
 	public static void main(String[] args) {
